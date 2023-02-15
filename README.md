@@ -2,3 +2,5 @@
 jayden weeloon joni
 
 ETL , dashboard, scrum stuff
+
+funni tem
